@@ -7,7 +7,7 @@ public class AverageMarks {
         System.out.print("Enter number of subjects: ");
         int n = scanner.nextInt();
         double sum = 0;
-
+        //Marks Average Calculation
         for (int i = 1; i <= n; i++) {
             System.out.print("Enter marks for subject " + i + ": ");
             sum += scanner.nextDouble();
