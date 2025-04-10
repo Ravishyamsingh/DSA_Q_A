@@ -5,7 +5,7 @@ public class AverageCalculator {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the count of numbers: ");
         int n = sc.nextInt();
-
+        //Simple Calculation
         if (n <= 0) {
             System.out.println("Invalid input. Count must be greater than 0.");
             return;
