@@ -7,6 +7,7 @@ public class Arithmatic_operation {
         int num1 = in.nextInt();
         int num2 = in.nextInt();
         System.out.println("Enter operator");
+        //Simple calculation
         char operator =in.next().charAt(0);
         if (operator=='+'){
             System.out.println(num1+num2);
