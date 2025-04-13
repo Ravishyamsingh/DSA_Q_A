@@ -7,7 +7,6 @@ public  class CheckDistinctCharacters {
     public static boolean is_Unique_str(String str) {
         // Convert the input string to a character array
         char[] chars = str.toCharArray();
-
         // Sort the character array in lexicographical order
         Arrays.sort(chars);
 
