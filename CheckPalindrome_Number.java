@@ -9,7 +9,6 @@ public class CheckPalindrome_Number{
 
         // Prompt the user for a positive integer
         System.out.print("Input a positive integer: ");
-
         // Read the integer entered by the user
         int n = in.nextInt();
 
