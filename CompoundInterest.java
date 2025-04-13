@@ -6,7 +6,7 @@ public class CompoundInterest {
 
         System.out.print("Enter principal amount: ");
         double principal = scanner.nextDouble();
-
+//Arithmetic calclulation
         System.out.print("Enter annual interest rate (in %): ");
         double rate = scanner.nextDouble();
 
