@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class DistanceCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+//
         System.out.print("Enter x1: ");
         double x1 = sc.nextDouble();
         System.out.print("Enter y1: ");
