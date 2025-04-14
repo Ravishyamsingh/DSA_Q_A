@@ -6,7 +6,7 @@ public class ElectricityBill {
         System.out.print("Enter units consumed: ");
         int units = sc.nextInt();
         sc.close();
-
+//
         double bill = 0;
         if (units <= 100) {
             bill = units * 1.5;
