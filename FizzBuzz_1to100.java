@@ -5,7 +5,7 @@ public class FizzBuzz_1to100 {
         // Iterate from 1 to 100
         for (int i = 1; i <= 100; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
-                // Check if the number is divisible by both 3 and 5 (fizz buzz)
+            // Check if the number is divisible by both 3 and 5 (fizz buzz)
                 System.out.printf("\n%d: fizz buzz", i);
             } else if (i % 5 == 0) {
                 // Check if the number is divisible by 5 (buzz)
