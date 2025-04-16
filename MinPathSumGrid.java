@@ -2,6 +2,7 @@ import java.util.*;
 public class MinPathSumGrid {
     // Static method to find the minimum path sum in a 2D grid
     public static int minPathSum(int[][] grid) {
+        
         // Check for invalid or empty input grid
         if (grid == null || grid.length == 0 || grid[0] == null || grid[0].length == 0) {
             return 0;
