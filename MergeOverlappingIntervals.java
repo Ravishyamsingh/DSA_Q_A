@@ -4,6 +4,7 @@ public class MergeOverlappingIntervals
 {
     public static void main (String[] args) throws java.lang.Exception
     {
+        
         // Create an ArrayList of Interval objects
         ArrayList<Interval> x = new ArrayList<>();
 
