@@ -7,6 +7,7 @@ public class PerimeterEquilateralTriangle {
         System.out.println("Enter the side length: ");
         side_length=in.nextDouble();
         perimeter=3*side_length;
+        
         //Perimeter = 3 × side length (a)
 
         System.out.println(perimeter);
