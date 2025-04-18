@@ -7,6 +7,7 @@ public class Add_two_numm {
         int a = sc.nextInt();
         System.out.print("Enter second number: ");
         int b = sc.nextInt();
+        
         sc.close();
 
         System.out.println("Sum: " + (a + b));
