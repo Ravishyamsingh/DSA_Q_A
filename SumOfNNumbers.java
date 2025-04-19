@@ -6,6 +6,7 @@ public class SumOfNNumbers {
 
         System.out.print("Enter a number (N): ");
         int n = scanner.nextInt();
+        
         int sum = 0;
 
         for (int i = 1; i <= n; i++) {
