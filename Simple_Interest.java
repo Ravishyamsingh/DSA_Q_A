@@ -9,6 +9,7 @@ public class Simple_Interest {
         double rate = in.nextFloat();
         System.out.println("Enter time: ");
         double time = in.nextFloat();
+        
         double si= (princple*rate*time)/100;
 
         System.out.println(princple+si);
