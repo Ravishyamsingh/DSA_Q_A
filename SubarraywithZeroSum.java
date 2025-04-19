@@ -7,6 +7,7 @@ public class SubarraywithZeroSum {
 
         // Check if the input array is null or empty, and return an empty list if so
         if (nums == null || nums.length == 0) {
+            
             return temp;
         }
 
