@@ -9,6 +9,7 @@ public class RotateStringby_Offset{
         char[] A = str.toCharArray();
 
         // Define the offset for rotation
+        
         int offset = 3;
 
         // Calculate the length of the character array
