@@ -3,6 +3,7 @@ import java.util.*;
 public class SpecNumAdjacPairs {
     public static void main(String[] args) {
         int[] array_nums = {10, 20, 10, 20, 40, 20, 50};
+        
         int result = 0; // Initialize a result variable
 
         int x = 20; // The value to check for
