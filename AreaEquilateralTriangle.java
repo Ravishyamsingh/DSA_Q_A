@@ -5,6 +5,7 @@ public class AreaEquilateralTriangle {
         Scanner in= new Scanner(System.in);
         double side,Area;
         System.out.println("Enter the side: ");
+        
         side=in.nextDouble();
         
         //Formula calculation
