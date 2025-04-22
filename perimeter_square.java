@@ -7,5 +7,6 @@ public class perimeter_square {
         double side = sc.nextDouble();
         double perimeter = 4 * side;
         System.out.println(perimeter);
+        
     }
 }
