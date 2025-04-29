@@ -5,6 +5,9 @@ public class unique3num {
 
         System.out.println("Unique three-digit numbers using 1, 2, 3, 4 are:");
         for (int i = 0; i < digits.length; i++) {
+
+            //HEre is the some combination of the unique three digits using number
+            //HEre is the some combination of the unique three digits using number
             
             for (int j = 0; j < digits.length; j++) {
                 for (int k = 0; k < digits.length; k++) {
