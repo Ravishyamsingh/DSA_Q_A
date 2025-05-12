@@ -1,6 +1,7 @@
 import java.util.*;
 public class UniquePathsObstacles {
     public static int uniquePaths_With_obstacle_Grid(int[][] obstacle_Grid) {
+        
         // Get the number of rows (m) in the obstacle grid
         int m = obstacle_Grid.length;
         if (m <= 0) {
