@@ -2,17 +2,21 @@ import java.util.*;
 
 public class capitalizeletter {
     public static void main(String[] args) {
+        
         // Create a Scanner object for user input
         Scanner in = new Scanner(System.in);
         System.out.print("Input a Sentence: ");
 
         // Read a sentence from the user
+        
         String line = in.nextLine();
 
         // Initialize an empty string to store the result in uppercase
+        
         String upper_case_line = "";
 
         // Create a Scanner to process individual words in the sentence
+        
         Scanner lineScan = new Scanner(line);
 
         // Iterate through the words in the sentence
