@@ -2,11 +2,14 @@ import java.util.*;
 
 public class factornum {
     public static void main(String[] args) {
+        
         // Create a Scanner object for user input
+        
         Scanner in = new Scanner(System.in);
         System.out.print("Input an integer: ");
 
         // Read an integer from the user
+        
         int x = in.nextInt();
 
         // Call the result method and print the result
