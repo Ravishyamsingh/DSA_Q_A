@@ -6,11 +6,14 @@ public class SubarraywithZeroSum {
         List<Integer> temp = new ArrayList<>();
 
         // Check if the input array is null or empty, and return an empty list if so
+        
         if (nums == null || nums.length == 0) {
             
             return temp;
+            
         }
 
+        
         int pre_Sum = 0;
         Map<Integer, Integer> map = new HashMap<>();
         map.put(pre_Sum, -1);
