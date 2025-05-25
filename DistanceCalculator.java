@@ -8,10 +8,12 @@ public class DistanceCalculator {
         double x1 = sc.nextDouble();
         
         System.out.print("Enter y1: ");
+        
         double y1 = sc.nextDouble();
         
         System.out.print("Enter x2: ");
         double x2 = sc.nextDouble();
+
         
         System.out.print("Enter y2: ");
         double y2 = sc.nextDouble();
