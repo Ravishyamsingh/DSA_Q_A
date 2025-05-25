@@ -9,12 +9,17 @@ public class NCRNPR {
         
         return fact;
     }
+    
 
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
+        
 
         System.out.print("Enter value of N: ");
+        
         int n = scanner.nextInt();
+        
 
         System.out.print("Enter value of R: ");
         int r = scanner.nextInt();
