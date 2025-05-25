@@ -7,6 +7,7 @@ public class LongestWordDictionary {
         int longest_length = 0;
 
         // Iterate through each word in the dictionary
+        
         for (String str : dictionary) {
             int length = str.length();
 
@@ -14,12 +15,15 @@ public class LongestWordDictionary {
             
             if (length > longest_length) {
                 longest_length = length;
-                list.clear(); // Clear the list as a new longest word is found
+                
+                list.clear();
+                // Clear the list as a new longest word is found
             }
 
             // If the current word has the same length as the longest word(s), add it to the list
             if (length == longest_length) {
                 list.add(str);
+                
             }
         }
         return list; // Return the list of longest words
