@@ -8,8 +8,11 @@ public class ElectricityBill {
         
         int units = sc.nextInt();
         sc.close();
+        
 // Calculate the bil
+        
         double bill = 0;
+
         
         if (units <= 100) {
             bill = units * 1.5;
