@@ -13,11 +13,14 @@ public class UniquePathsObstacles {
             return 0;
         }
         // Create a dynamic programming array to store unique paths
+        
         int[][] dp = new int[m + 1][n + 1];
         dp[m][n - 1] = 1;
 
         // Nested loops to iterate through the grid
-        for (int i = m - 1; i >= 0; --i) { // Start from the bottom row and move upwards
+        
+        for (int i = m - 1; i >= 0; --i) {
+            // Start from the bottom row and move upwards
             for (int j = n - 1; j >= 0; --j) { // Start from the rightmost column and move leftwards
                 // Calculate unique paths for the current cell based on obstacles
                 dp[i][j] = (obstacle_Grid[i][j] == 0) ? dp[i + 1][j] + dp[i][j + 1] : 0;
