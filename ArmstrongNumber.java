@@ -5,9 +5,12 @@ public class ArmstrongNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         //Simple Calculation
+        
         System.out.print("Enter a number: ");
+        
         int num = scanner.nextInt();
         int originalNum = num, sum = 0, digits = 0;
+        
 
         while (originalNum != 0) {
             originalNum /= 10;
