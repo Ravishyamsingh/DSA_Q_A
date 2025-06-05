@@ -1,6 +1,9 @@
+
+
 import java.util.*;
 public  class CheckDistinctCharacters {
     /**
+    
      * @param str: a string
      * @return: a boolean
      */
