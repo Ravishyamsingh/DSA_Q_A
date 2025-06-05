@@ -7,8 +7,10 @@ public class Count_Elem_Differby {
         System.out.println("Array1: "+Arrays.toString(array_nums1));
         System.out.println("Array2: "+Arrays.toString(array_nums2));
 
+
         
         int ctr = 0; 
+        
         // Initialize a counter to keep track of the number of elements
 
         // Iterate through the arrays to compare elements at the same index
