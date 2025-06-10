@@ -15,6 +15,8 @@ public class input_until_zero {
             sum += num;
         }
 
+        
+
         sc.close();
         System.out.println("Sum of all numbers: " + sum);
     }
