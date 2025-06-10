@@ -25,6 +25,9 @@ public class MergeOverlappingIntervals
         }
     }
 
+
+    
+
     public static ArrayList<Interval> merge(ArrayList<Interval> intervals) {
         // Check for the number of intervals
         if(intervals.size() == 0 || intervals.size() == 1)
