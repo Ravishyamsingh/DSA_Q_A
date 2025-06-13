@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Factorial {
@@ -7,6 +8,7 @@ public class Factorial {
         System.out.print("Enter a number: ");
         
         int num = sc.nextInt();
+        
         sc.close();
 
         long fact = 1;
