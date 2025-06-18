@@ -18,6 +18,9 @@ public class AverageCalculator {
         }
         sc.close();
 
+
+        
+
         double average = sum / n;
         System.out.println("Average: " + average);
     }
