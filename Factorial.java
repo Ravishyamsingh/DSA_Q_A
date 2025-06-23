@@ -1,6 +1,7 @@
 
 import java.util.Scanner;
 
+
 public class Factorial {
     public static void main(String[] args) {
         
@@ -10,6 +11,8 @@ public class Factorial {
         int num = sc.nextInt();
         
         sc.close();
+
+        
 
         long fact = 1;
         for (int i = 1; i <= num; i++) {
