@@ -7,7 +7,11 @@ public class areaOfTriangle {
         double base,height, AreaTriangle;
         
         System.out.println("Enter the base: ");
+
+        
         base=in.nextDouble();
+
+
         
         System.out.println("Enter the Height: ");
         height=in.nextDouble();
