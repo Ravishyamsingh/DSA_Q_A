@@ -14,6 +14,10 @@ public class caseCheck {
         }else{
             System.out.println("Upper case");
         }
+
+
+
+        
         System.out.println();
 
 
