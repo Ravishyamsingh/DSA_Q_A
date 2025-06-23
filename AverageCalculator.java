@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class AverageCalculator {
@@ -7,6 +9,8 @@ public class AverageCalculator {
         int n = sc.nextInt();
         //Simple Calculation
         if (n <= 0) {
+
+            
             System.out.println("Invalid input. Count must be greater than 0.");
             return;
         }
