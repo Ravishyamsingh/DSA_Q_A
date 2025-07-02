@@ -12,6 +12,11 @@ public class Factorial {
         
         sc.close();
 
+
+
+
+
+        
         
 
         long fact = 1;
