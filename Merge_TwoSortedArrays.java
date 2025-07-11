@@ -10,10 +10,18 @@ public class Merge_TwoSortedArrays {
         // Declaration and instantiation of array1
         int array1[] = new int[8];
 
+
+
+
+        
         // Initialize the first four elements of array1
         array1[0] = 1;
+
+        
         array1[1] = 2;
+        
         array1[2] = 3;
+        
         array1[3] = 4;
 
         // Initialize array2
