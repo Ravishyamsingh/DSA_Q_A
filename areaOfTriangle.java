@@ -4,7 +4,10 @@ public class areaOfTriangle {
     public static void main(String [] args){
         
         Scanner in = new Scanner(System.in);
+        
         double base,height, AreaTriangle;
+
+
         
         System.out.println("Enter the base: ");
 
