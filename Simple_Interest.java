@@ -1,7 +1,10 @@
 import java.util.Scanner;
 
+
 public class Simple_Interest {
+    
     public static void main(String[] args) {
+        
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the principle / amount: ");
         double princple = in.nextFloat();
