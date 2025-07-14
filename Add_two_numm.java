@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Add_two_numm {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
