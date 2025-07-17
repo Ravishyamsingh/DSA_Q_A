@@ -1,7 +1,4 @@
-
-
 import java.util.*;
-
 public class LongestWordDictionary {
     // Function to find and return the longest words in the given dictionary
     static ArrayList longestWords(String[] dictionary) {
