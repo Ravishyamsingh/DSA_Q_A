@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class TrailingZerosinFactorial {
     public static void main(String[] arg) {
         Scanner in = new Scanner(System.in); // Create a Scanner object for user input
