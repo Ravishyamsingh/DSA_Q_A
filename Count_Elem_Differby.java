@@ -13,9 +13,7 @@ public class Count_Elem_Differby {
 
         
         int ctr = 0; 
-        
-
-
+       
 
         
         // Initialize a counter to keep track of the number of elements
