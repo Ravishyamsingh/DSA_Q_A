@@ -1,6 +1,3 @@
-
-
-
 import java.util.Scanner;
 
 public class CurvedSurfaceAreaCylinder {
@@ -19,4 +16,5 @@ public class CurvedSurfaceAreaCylinder {
         System.out.println("Volume of the prism: " + volume);
     }
 }
+
 
