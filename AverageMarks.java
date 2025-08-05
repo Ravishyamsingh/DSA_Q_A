@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class AverageMarks {
@@ -19,3 +21,4 @@ public class AverageMarks {
         scanner.close();
     }
 }
+
