@@ -1,4 +1,6 @@
-    //Simple calculation
+
+
+//Simple calculation
 import java.util.Scanner;
 
 
@@ -39,3 +41,4 @@ public class ArmstrongNumber {
         scanner.close();
     }
 }
+
