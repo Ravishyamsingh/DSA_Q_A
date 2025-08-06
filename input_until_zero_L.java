@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class input_until_zero_L{
@@ -19,3 +21,4 @@ public class input_until_zero_L{
         System.out.println("Largest number: " + (max == Integer.MIN_VALUE ? "No numbers entered" : max));
     }
 }
+
