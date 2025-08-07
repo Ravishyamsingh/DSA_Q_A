@@ -1,3 +1,5 @@
+
+
 import java.util.*;
 
 public class capitalizeletter {
@@ -31,3 +33,4 @@ public class capitalizeletter {
         System.out.println(upper_case_line.trim());
     }
 }
+
