@@ -1,3 +1,4 @@
+
 public class unique3num {
     public static void main(String[] args) {
         int[] digits = {1, 2, 3, 4};
@@ -22,3 +23,4 @@ public class unique3num {
         System.out.println("Total number of unique three-digit numbers: " + count);
     }
 }
+
