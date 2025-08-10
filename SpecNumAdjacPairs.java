@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class SpecNumAdjacPairs {
@@ -24,3 +25,4 @@ public class SpecNumAdjacPairs {
         }
     }
 }
+
