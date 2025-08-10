@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class VolumePyramid {
@@ -15,3 +16,4 @@ public class VolumePyramid {
         System.out.println("Volume of the prism: " + volume);
     }
 }
+
