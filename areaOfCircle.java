@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class areaOfCircle {
@@ -12,3 +13,4 @@ public class areaOfCircle {
         System.out.println("The area of circle: "+AreaCircle);
     }
 }
+
