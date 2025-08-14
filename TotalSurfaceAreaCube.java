@@ -1,3 +1,5 @@
+
+
 import java.util.*;
 import java.util.Scanner;
 
@@ -13,3 +15,4 @@ public class TotalSurfaceAreaCube {
         System.out.println("Volume of the prism: " + volume);
     }
 }
+
