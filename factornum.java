@@ -1,5 +1,7 @@
 
 
+
+
 import java.util.*;
 
 public class factornum {
@@ -34,3 +36,4 @@ public class factornum {
         return ctr;  // Return the total count of divisors
     }
 }
+
