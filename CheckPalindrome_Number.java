@@ -1,8 +1,5 @@
 
 
-
-
-
 import java.util.*;
 
 public class CheckPalindrome_Number{
@@ -41,4 +38,5 @@ public class CheckPalindrome_Number{
         return (n == reverse_nums(n));
     }
 }
+
 
