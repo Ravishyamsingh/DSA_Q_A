@@ -1,5 +1,8 @@
 
 
+
+
+
 import java.util.Scanner;
 
 public class PerimeterEquilateralTriangle {
@@ -15,4 +18,5 @@ public class PerimeterEquilateralTriangle {
         System.out.println(perimeter);
     }
 }
+
 
