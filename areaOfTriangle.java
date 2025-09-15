@@ -1,3 +1,7 @@
+
+
+
+
 import java.util.Scanner;
 
 public class areaOfTriangle {
@@ -28,3 +32,4 @@ public class areaOfTriangle {
         System.out.println(AreaTriangle);
     }
 }
+
