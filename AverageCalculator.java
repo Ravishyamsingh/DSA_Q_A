@@ -6,6 +6,8 @@ public class AverageCalculator {
         System.out.print("Enter the count of numbers: ");
         int n = sc.nextInt();
         //Simple Calculation
+        
+            System.out.println("Invalid input. Count must be greater than 0.");
         if (n <= 0) {
 
 
@@ -32,3 +34,4 @@ public class AverageCalculator {
         System.out.println("Average: " + average);
     }
 }
+
