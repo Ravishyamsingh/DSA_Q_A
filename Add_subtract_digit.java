@@ -1,7 +1,4 @@
-
-
 import java.util.Scanner;
-
 public class Add_subtract_digit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -47,3 +44,4 @@ public class Add_subtract_digit {
         System.out.println("Result: " + (product - sum));
     }
 }
+
