@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-
 public class Arithmatic_operation {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -76,3 +74,4 @@ public class Arithmatic_operation {
     }
 
 }
+
