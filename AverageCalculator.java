@@ -1,3 +1,6 @@
+
+
+
 import java.util.Scanner;
 
 public class AverageCalculator {
@@ -34,4 +37,5 @@ public class AverageCalculator {
         System.out.println("Average: " + average);
     }
 }
+
 
