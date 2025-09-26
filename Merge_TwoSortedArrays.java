@@ -1,7 +1,3 @@
-
-
-
-
 import java.util.*;
 
 public class Merge_TwoSortedArrays {
@@ -13,10 +9,6 @@ public class Merge_TwoSortedArrays {
 
         // Declaration and instantiation of array1
         int array1[] = new int[8];
-
-
-
-
         
         // Initialize the first four elements of array1
         array1[0] = 1;
@@ -62,4 +54,5 @@ public class Merge_TwoSortedArrays {
         System.out.println("\nMerged array: " + Arrays.toString(array1));
     }
 }
+
 
