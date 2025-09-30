@@ -1,7 +1,4 @@
 
-
-
-
 import java.util.Scanner;
 
 
@@ -22,4 +19,5 @@ public class Simple_Interest {
         System.out.println(princple+si);
     }
 }
+
 
