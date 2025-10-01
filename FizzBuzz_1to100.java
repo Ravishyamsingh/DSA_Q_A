@@ -1,8 +1,3 @@
-
-
-
-
-
 import java.util.*;
 
 public class FizzBuzz_1to100 {
@@ -30,5 +25,6 @@ public class FizzBuzz_1to100 {
         System.out.printf("\n");
     }
 }
+
 
 
