@@ -1,6 +1,11 @@
 
 
 
+
+
+
+
+
 import java.util.Scanner;
 
 public class Odd_Even {
@@ -16,5 +21,6 @@ public class Odd_Even {
         }
     }
 }
+
 
 
