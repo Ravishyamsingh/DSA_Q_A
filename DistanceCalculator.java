@@ -1,8 +1,4 @@
 
-
-
-
-
 import java.util.Scanner;
 public class DistanceCalculator {
     public static void main(String[] args) {
@@ -33,5 +29,6 @@ public class DistanceCalculator {
         System.out.println("Distance between points: " + distance);
     }
 }
+
 
 
