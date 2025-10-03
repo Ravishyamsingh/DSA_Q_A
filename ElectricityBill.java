@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class ElectricityBill {
@@ -25,4 +27,5 @@ public class ElectricityBill {
         System.out.println("Total Bill: ₹" + bill);
     }
 }
+
 
