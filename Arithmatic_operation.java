@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 import java.util.Scanner;
 public class Arithmatic_operation {
     public static void main(String[] args) {
@@ -83,6 +74,7 @@ public class Arithmatic_operation {
     }
 
 }
+
 
 
 
