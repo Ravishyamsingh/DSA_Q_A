@@ -1,0 +1,15 @@
+class Solution {
+    public boolean hasIncreasingSubarrays(List<Integer> nums, int k) {
+        int n = nums.size();
+        if (2 * k > n) return false;
+        int[] incLen = new int[n];
+        for (int i = n - 2; i >= 0; --i) {
+            if (nums.get(i) < nums.get(i + 1)) incLen[i] = incLen[i + 1] + 1;
+            else incLen[i] = 0;
+        }
+        for (int i = 0; i <= n - 2 * k; ++i) {
+            if (incLen[i] >= k - 1 && incLen[i + k] >= k - 1) return true;
+        }
+        return false;
+    }
+}
