@@ -1,3 +1,7 @@
+
+
+
+
 import java.util.Scanner;
 
 public class CompoundInterest {
@@ -25,5 +29,6 @@ public class CompoundInterest {
         System.out.printf("Total Amount: %.2f%n", amount);
     }
 }
+
 
 
