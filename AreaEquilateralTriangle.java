@@ -1,8 +1,3 @@
-
-
-
-
-
 import java.util.Scanner;
 
 public class AreaEquilateralTriangle {
@@ -40,6 +35,7 @@ public class AreaEquilateralTriangle {
 
     }
 }
+
 
 
 
