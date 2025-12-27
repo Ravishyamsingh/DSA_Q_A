@@ -1,3 +1,7 @@
+
+
+
+
 import java.util.*;
 
 public class Merge_TwoSortedArrays {
@@ -54,5 +58,6 @@ public class Merge_TwoSortedArrays {
         System.out.println("\nMerged array: " + Arrays.toString(array1));
     }
 }
+
 
 
