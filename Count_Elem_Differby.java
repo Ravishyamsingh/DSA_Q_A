@@ -1,7 +1,3 @@
-
-
-
-
 import java.util.*;
 public class Count_Elem_Differby {
     public static void main(String[] args) {
@@ -31,5 +27,6 @@ public class Count_Elem_Differby {
         System.out.printf("\n");
     }
 }
+
 
 
