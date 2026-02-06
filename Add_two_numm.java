@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 import java.util.Scanner;
 public class Add_two_numm {
     public static void main(String[] args) {
@@ -40,6 +32,7 @@ public class Add_two_numm {
         System.out.println("Sum: " + (a + b));
     }
 }
+
 
 
 
