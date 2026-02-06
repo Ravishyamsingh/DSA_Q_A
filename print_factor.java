@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class print_factor {
@@ -17,4 +16,5 @@ public class print_factor {
         }
     }
 }
+
 
