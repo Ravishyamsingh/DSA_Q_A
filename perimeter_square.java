@@ -1,9 +1,3 @@
-
-
-
-
-
-
 import java.util.Scanner;
 
 public class perimeter_square {
@@ -16,5 +10,6 @@ public class perimeter_square {
         
     }
 }
+
 
 
