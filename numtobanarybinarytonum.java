@@ -29,5 +29,15 @@ public class numtobanarybinarytonum {
             number=number/2;
         }
         System.out.println(binaryt);
+        int binary=sc.nextInt();
+        int num=0;
+        int base=1;
+        while(binary>0){
+            int rem=binary%10;
+            num=num+(rem*base);
+            base=base*2;
+            binary=binary/10;
+        }
+        System.out.println(num);
     }
 }
